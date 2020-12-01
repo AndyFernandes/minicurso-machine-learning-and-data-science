@@ -6,11 +6,9 @@ No minicurso além da fundamentação base de Data Science & Machine Learning e 
 
 - Regressão Linear;
 - Regressão Logística;
-- Naive Bayes;
 - K-NN;
 - Árvore de Decisão;
 - Ensembles;
-- Introdução a Deep Learning (*);
 - KMeans
 
 ---
@@ -24,23 +22,21 @@ No minicurso além da fundamentação base de Data Science & Machine Learning e 
 
 ###  [Aula 02](02. Aula0 02/)
 - Regressão Linear
-- Regressão Logística
 - Grid Search
-- Cross Validation
 - Hands-On: Regressão Linear
 
 ###  [Aula 03](03. Aula 03/)
+- Regressão Logística
 - K-NN
-- Naive Bayes
-- Árvore de Decisão
-- Hands-On: K-NN
+- Cross Validation
+- Hands-On: Regressão Logística & K-NN
 
 
 ###  [Aula 04](04. Aula 04/)
+- Árvore de Decisão
 - Ensembles
-- Introdução a Deep Learning
 - K-means
-- Hands-On: K-Means
+- Hands-On
 
 
 ###  [Aula 05](05. Aula 05/)
